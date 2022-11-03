@@ -10,7 +10,8 @@ Highly Motivated, Self-starting developer seeking to launch a career building We
 *   ✉️  You can contact me at [careers.aathirajan@gmail.com](mailto:careers.aathirajan@gmail.com)<a href="https://www.twitter.com/Aathirajan5" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Aathirajan5?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/Aathirajan" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Aathirajan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/Aathirajan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  <h1>Skills</h1> 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
