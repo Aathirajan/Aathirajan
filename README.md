@@ -6,7 +6,7 @@ Full Stack Web Developer.
 
 Highly Motivated, Self-starting developer seeking to launch a career building Web applications and services. Familiar with development and deployment process for many web based technologies.
 
-*   🌍  I'm based in Sivakasi
+*   🌍  I'm based in India
 *   ✉️  You can contact me at [careers.aathirajan@gmail.com](mailto:careers.aathirajan@gmail.com)
 
 <p> <a href="https://www.twitter.com/Aathirajan5" target="_blank" rel="noreferrer"><img
