@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on trading floor<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning solidity.<br>⚡ Fun fact-I'm an night owl.
+<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning solidity.<br>⚡ Fun fact-I'm an night owl.
 
 
 ## 🌐 Socials:
