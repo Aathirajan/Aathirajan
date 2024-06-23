@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Solana Tradingbot**
 
-- 🌱 I’m currently learning **Grpc and Trpc**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Solana and ZK Projects**
 
